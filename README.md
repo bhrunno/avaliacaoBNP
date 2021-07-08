@@ -24,20 +24,30 @@ projeto
 ├── api
 |   ├── src
 |   └── pom.xml
+
+
 ├── core
 |   ├── profiles
 |   ├── src
 |   └── pom.xml
+
+
 ├── job
 |   ├── src
 |   └── pom.xml
+
+
 ├── db
 |   ├── db
 |   ├── db.changelog.xml
 |   └── pom.xml
+
+
 ├── extranet-ui
 |   ├── src
 |   └── pom.xml
+
+
 ├── intranet-ui
 |   ├── src/main/ngapp
 |   |   ├── e2e  
@@ -47,5 +57,8 @@ projeto
 |   |   ├── angular.json
 |   |   └── package.json
 |   └── pom.xml
+
+
+
 ├── README.md
 └── pom.xml
